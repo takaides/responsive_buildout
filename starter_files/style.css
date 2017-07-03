@@ -184,8 +184,9 @@ header {
   }
   #main_nav {
     flex-flow: row nowrap;
-    /*max-width: 550px;*/
+    width: 60%;
   }
+
   #main_content {
     flex-flow: row nowrap;
   }
